@@ -5,9 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=as-repo1&label=Profile%20views&color=0e75b6&style=flat" alt="as-repo1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=as-repo1" alt="as-repo1" /></a> </p>
-
-- 🔭 I’m currently working on **Machine Learning & Python & TUI**
+- 🔭 I’m currently working on **ML & Python & TUI**
 
 - 🌱 I’m currently learning **Python**
 
@@ -15,11 +13,9 @@
 
 - 🤝 I’m looking for help with **ML & TUI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/as-repo1?tab=repositories](https://github.com/as-repo1?tab=repositories)
-
 - 💬 Ask me about **LINUX & Chess**
 
-- 📫 How to reach me **abhinabasarkar22@gmail.com**
+- 📫 How to reach me **linkedin.com/in/abhinaba-sarkar-a7b584204/**
 
 - ⚡ Fun fact **I think I am funny**
 
