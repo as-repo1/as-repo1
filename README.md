@@ -1,7 +1,7 @@
 [![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Abhinaba Sarkar</h1>
 <h3 align="center">Learning Python, grinding myself on ML & Web Development</h3>
-(img align="right" alt="Coding-freak" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif")
+(img align="right" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=as-repo1&label=Profile%20views&color=0e75b6&style=flat" alt="as-repo1" /> </p>
 
