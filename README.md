@@ -5,19 +5,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=as-repo1&label=Profile%20views&color=0e75b6&style=flat" alt="as-repo1" /> </p>
 
-- 🔭 I’m currently working on **ML & Python & TUI**
+- 🔭 I’m currently grinding on **DSA & Data Science**
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on **ML and Python**
+- 👯 I’m looking to collaborate on **ML and Data Science**
 
-- 🤝 I’m looking for help with **ML & TUI**
+- 🤝 I’m looking for help with **Data Science & ML**
 
 - 💬 Ask me about **LINUX & Chess**
 
 - 📫 How to reach me **linkedin.com/in/abhinaba-sarkar-a7b584204/**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **The sun weighs 2,000 million million million million tons.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
