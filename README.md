@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **LINUX & Chess**
 
-- 📫 How to reach me **[LinkedIn][linkedin.com/in/abhinaba-sarkar-a7b584204/]**
+- 📫 How to reach me **[LinkedIn](linkedin.com/in/abhinaba-sarkar-a7b584204/)**
 
 - ⚡ Fun fact **The sun weighs 2,000 million million million million tons.**
 
