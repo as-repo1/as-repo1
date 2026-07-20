@@ -5,21 +5,12 @@
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=50&lines=Building+Android+apps+%7C+Crafting+dotfiles+%7C+Hacking+on+ESP32+%7C+%40+TCS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=50&lines=Building+Android+apps+%7C+Crafting+dotfiles+%7C+Tinkering+with+RAG+%26+Agents+%7C+%40+TCS" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- PROFILE BADGES -->
 <img src="https://komarev.com/ghpvc/?username=as-repo1&label=Profile%20Views&color=5E81AC&style=for-the-badge" alt="Profile Views" />
-&nbsp;
-<a href="https://github.com/as-repo1?tab=followers">
-  <img src="https://img.shields.io/github/followers/as-repo1?label=Followers&style=for-the-badge&color=A3BE8C&labelColor=2E3440" alt="Followers" />
-</a>
-&nbsp;
-<a href="https://github.com/as-repo1?tab=repositories">
-  <img src="https://img.shields.io/badge/Public%20Repos-24-88C0D0?style=for-the-badge&labelColor=2E3440" alt="Repos" />
-</a>
 
 </div>
 
@@ -56,11 +47,17 @@ abhinaba@chaos:~$ neofetch
 
 &nbsp;
 
-**`> whoami`** &nbsp; Systems engineer at **TCS** by day, builder by nature. I write code that runs close to the metal — Android apps in **Kotlin**, Linux dotfiles that I obsessively rice, **ESP32** embedded projects in C, and Docker stacks for running **AI locally** on Intel Arc.
+**`> whoami`** &nbsp; Systems engineer at **TCS** · builder by nature
 
-**`> uptime`** &nbsp; B.Tech in Computer Science (Data Science) · Based in India
+**`> cat /proc/stack`** &nbsp; **Kotlin** · **Python** · **C** · **Bash** · **Docker**
 
-**`> cat /proc/interests`** &nbsp; Open source everything · Offline-first tools · Self-hosted infra
+**`> ps aux`** &nbsp; Android apps · Linux dotfiles · ESP32 embedded · Local AI on Intel Arc
+
+**`> tail -f /var/log/learning`** &nbsp; RAG · LLMs · Multimodal systems · Agentic AI
+
+**`> uptime`** &nbsp; B.Tech CS (Data Science) · Based in India
+
+**`> cat /proc/interests`** &nbsp; Open source · Offline-first tools · Self-hosted infra
 
   </td>
   </tr>
@@ -85,7 +82,7 @@ abhinaba@chaos:~$ neofetch
     <td align="center" width="140">
       <img src="https://img.shields.io/badge/-0071C5?style=for-the-badge&logo=intel&logoColor=white" /><br/>
       <sub><b>Self-hosting</b></sub><br/>
-      <sub>Local AI</sub>
+      <sub>Local AI + RAG</sub>
     </td>
     <td align="center" width="140">
       <img src="https://img.shields.io/badge/-E7352C?style=for-the-badge&logo=espressif&logoColor=white" /><br/>
@@ -98,9 +95,9 @@ abhinaba@chaos:~$ neofetch
       <sub>Niri + Quickshell</sub>
     </td>
     <td align="center" width="140">
-      <img src="https://img.shields.io/badge/-769656?style=for-the-badge&logo=lichess&logoColor=white" /><br/>
-      <sub><b>Playing</b></sub><br/>
-      <sub>Chess ♟️</sub>
+      <img src="https://img.shields.io/badge/-B48EAD?style=for-the-badge&logo=openai&logoColor=white" /><br/>
+      <sub><b>Exploring</b></sub><br/>
+      <sub>LLMs & Agents</sub>
     </td>
   </tr>
 </table>
