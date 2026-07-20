@@ -28,51 +28,83 @@
 <!-- ABOUT ME -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="28" /> &nbsp;About Me
 
+<div align="center">
+
+```
+abhinaba@chaos:~$ neofetch
+```
+
+</div>
+
 <table>
   <tr>
-    <td width="55%" valign="top">
+    <td valign="top" width="40%">
 
-```js
-const abhinaba = {
-    education : "B.Tech CS (Data Science)",
-    location  : "India",
-    
-    currently : {
-        building  : "Android apps — Kotlin & Compose",
-        tinkering : "Arch dotfiles — Niri + Waybar",
-        hacking   : "ESP32 weather stations",
-        running   : "Local AI on Intel Arc GPUs",
-    },
-
-    daily_driver : "Arch Linux btw",
-    hobbies      : ["Chess ♟️", "Linux ricing", "Open source"],
-};
+```
+       /\          abhinaba@chaos
+      /  \         ──────────────
+     /\   \        OS     Arch Linux
+    /      \       WM     Niri
+   /   ,,   \      Bar    Waybar
+  /   |  |  -\     Theme  Nord
+ /_-''    ''-_\    Shell  Bash
 ```
 
   </td>
-  <td width="45%" valign="top">
+  <td valign="top" width="60%">
+
+&nbsp;
+
+**`> whoami`** &nbsp; CS grad turned systems builder. I write code that runs close to the metal — Android apps in **Kotlin**, Linux dotfiles that I obsessively rice, **ESP32** firmware in C, and Docker stacks for running **AI locally** on Intel Arc.
+
+**`> uptime`** &nbsp; B.Tech in Computer Science (Data Science) · Based in India
+
+**`> cat /proc/interests`** &nbsp; Open source everything · Offline-first tools · Self-hosted infra
+
+  </td>
+  </tr>
+</table>
 
 <div align="center">
 
 <br/>
 
-<img src="https://img.shields.io/badge/🔧_Building-Android_Apps-7F52FF?style=for-the-badge&labelColor=0d1117" />
-
-<img src="https://img.shields.io/badge/🐧_Daily_Driver-Arch_Linux-1793D1?style=for-the-badge&labelColor=0d1117" />
-
-<img src="https://img.shields.io/badge/🤖_Local_AI-Intel_Arc_+_Ollama-0071C5?style=for-the-badge&labelColor=0d1117" />
-
-<img src="https://img.shields.io/badge/⚡_Hardware-ESP32_+_IoT-E7352C?style=for-the-badge&labelColor=0d1117" />
-
-<img src="https://img.shields.io/badge/🎨_Ricing-Niri_+_Waybar_+_Nord-88C0D0?style=for-the-badge&labelColor=0d1117" />
-
-<img src="https://img.shields.io/badge/♟️_Hobby-Chess_Player-769656?style=for-the-badge&labelColor=0d1117" />
-
-</div>
-
-  </td>
+<table>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://img.shields.io/badge/-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" /><br/>
+      <sub><b>Building</b></sub><br/>
+      <sub>Android Apps</sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://img.shields.io/badge/-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" /><br/>
+      <sub><b>Daily Driver</b></sub><br/>
+      <sub>Arch Linux</sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://img.shields.io/badge/-0071C5?style=for-the-badge&logo=intel&logoColor=white" /><br/>
+      <sub><b>Self-hosting</b></sub><br/>
+      <sub>Local AI</sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://img.shields.io/badge/-E7352C?style=for-the-badge&logo=espressif&logoColor=white" /><br/>
+      <sub><b>Hacking</b></sub><br/>
+      <sub>ESP32 / IoT</sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://img.shields.io/badge/-88C0D0?style=for-the-badge&logo=waybar&logoColor=black" /><br/>
+      <sub><b>Ricing</b></sub><br/>
+      <sub>Niri + Nord</sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://img.shields.io/badge/-769656?style=for-the-badge&logo=lichess&logoColor=white" /><br/>
+      <sub><b>Playing</b></sub><br/>
+      <sub>Chess ♟️</sub>
+    </td>
   </tr>
 </table>
+
+</div>
 
 <br/>
 
