@@ -5,12 +5,19 @@
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=50&lines=Building+Android+apps+%7C+Crafting+dotfiles+%7C+Tinkering+with+RAG+%26+Agents+%7C+%40+TCS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&repeat=true&width=500&height=50&lines=Building+Android+apps+in+Kotlin;Crafting+Linux+dotfiles+%F0%9F%90%A7;Tinkering+with+RAG+%26+Agentic+AI;Hacking+on+ESP32+%26+embedded+C;Running+local+AI+on+Intel+Arc;Systems+engineer+%40+TCS" alt="Typing SVG" />
 </a>
 
 <br/>
 
+<!-- PROFILE BADGES -->
 <img src="https://komarev.com/ghpvc/?username=as-repo1&label=Profile%20Views&color=5E81AC&style=for-the-badge" alt="Profile Views" />
+&nbsp;
+<img src="https://img.shields.io/badge/Total%20Stars-15+-A3BE8C?style=for-the-badge&labelColor=2E3440&logo=github" alt="Stars" />
+&nbsp;
+<img src="https://img.shields.io/badge/Since-2021-88C0D0?style=for-the-badge&labelColor=2E3440&logo=github" alt="Years" />
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-BF616A?style=for-the-badge&labelColor=2E3440" alt="Open Source" />
 
 </div>
 
