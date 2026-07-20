@@ -28,29 +28,51 @@
 <!-- ABOUT ME -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="28" /> &nbsp;About Me
 
-```yaml
-name: Abhinaba Sarkar
-located_in: India
-education: B.Tech in Computer Science (Data Science)
+<table>
+  <tr>
+    <td width="55%" valign="top">
 
-currently:
-  building: Android apps with Kotlin & Jetpack Compose
-  tinkering: Arch Linux dotfiles — Niri + Waybar + GNU Stow
-  hacking: ESP32 weather stations & embedded C
-  running: Local AI on Intel Arc — Ollama, ComfyUI, Whisper
+```js
+const abhinaba = {
+    education : "B.Tech CS (Data Science)",
+    location  : "India",
+    
+    currently : {
+        building  : "Android apps — Kotlin & Compose",
+        tinkering : "Arch dotfiles — Niri + Waybar",
+        hacking   : "ESP32 weather stations",
+        running   : "Local AI on Intel Arc GPUs",
+    },
 
-interests:
-  - Linux rice & window manager configs
-  - Offline-first Android utilities
-  - Self-hosted AI infrastructure
-  - IoT & embedded systems
-  - Open source everything
-
-fun_facts:
-  - Daily driver is Arch btw
-  - Chess player ♟️
-  - Prefers terminal over GUI
+    daily_driver : "Arch Linux btw",
+    hobbies      : ["Chess ♟️", "Linux ricing", "Open source"],
+};
 ```
+
+  </td>
+  <td width="45%" valign="top">
+
+<div align="center">
+
+<br/>
+
+<img src="https://img.shields.io/badge/🔧_Building-Android_Apps-7F52FF?style=for-the-badge&labelColor=0d1117" />
+
+<img src="https://img.shields.io/badge/🐧_Daily_Driver-Arch_Linux-1793D1?style=for-the-badge&labelColor=0d1117" />
+
+<img src="https://img.shields.io/badge/🤖_Local_AI-Intel_Arc_+_Ollama-0071C5?style=for-the-badge&labelColor=0d1117" />
+
+<img src="https://img.shields.io/badge/⚡_Hardware-ESP32_+_IoT-E7352C?style=for-the-badge&labelColor=0d1117" />
+
+<img src="https://img.shields.io/badge/🎨_Ricing-Niri_+_Waybar_+_Nord-88C0D0?style=for-the-badge&labelColor=0d1117" />
+
+<img src="https://img.shields.io/badge/♟️_Hobby-Chess_Player-769656?style=for-the-badge&labelColor=0d1117" />
+
+</div>
+
+  </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -217,16 +239,7 @@ fun_facts:
 
 </div>
 
-<br/>
 
-<!-- SNAKE -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/as-repo1/as-repo1/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/as-repo1/as-repo1/output/github-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/as-repo1/as-repo1/output/github-snake-dark.svg" width="100%" />
-  </picture>
-</div>
-
+<!-- SNAKE: will appear after the GitHub Action runs and generates the SVGs -->
 <!-- FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%" />
