@@ -1,24 +1,24 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Abhinaba%20Sarkar&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Linux%20tinkerer%20%E2%80%A2%20Android%20builder%20%E2%80%A2%20Hardware%20hacker&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3440,50:3B4252,100:5E81AC&height=220&section=header&text=Abhinaba%20Sarkar&fontSize=42&fontColor=88C0D0&fontAlignY=35&desc=Systems%20%E2%86%92%20Apps%20%E2%86%92%20Hardware%20%E2%86%92%20Chaos&descSize=16&descColor=D8DEE9&descAlignY=55&animation=fadeIn" width="100%" />
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=50&lines=Building+Android+apps+%7C+Crafting+dotfiles+%7C+Hacking+on+ESP32" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=50&lines=Building+Android+apps+%7C+Crafting+dotfiles+%7C+Hacking+on+ESP32+%7C+%40+TCS" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- PROFILE BADGES -->
-<img src="https://komarev.com/ghpvc/?username=as-repo1&label=Profile%20Views&color=1f6feb&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=as-repo1&label=Profile%20Views&color=5E81AC&style=for-the-badge" alt="Profile Views" />
 &nbsp;
 <a href="https://github.com/as-repo1?tab=followers">
-  <img src="https://img.shields.io/github/followers/as-repo1?label=Followers&style=for-the-badge&color=238636&labelColor=0d1117" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/as-repo1?label=Followers&style=for-the-badge&color=A3BE8C&labelColor=2E3440" alt="Followers" />
 </a>
 &nbsp;
 <a href="https://github.com/as-repo1?tab=repositories">
-  <img src="https://img.shields.io/badge/Public%20Repos-24-58a6ff?style=for-the-badge&labelColor=0d1117" alt="Repos" />
+  <img src="https://img.shields.io/badge/Public%20Repos-24-88C0D0?style=for-the-badge&labelColor=2E3440" alt="Repos" />
 </a>
 
 </div>
@@ -45,9 +45,10 @@ abhinaba@chaos:~$ neofetch
       /  \         ──────────────
      /\   \        OS     Arch Linux
     /      \       WM     Niri
-   /   ,,   \      Bar    Waybar
+   /   ,,   \      Bar    Quickshell
   /   |  |  -\     Theme  Nord
  /_-''    ''-_\    Shell  Bash
+                   @      TCS
 ```
 
   </td>
@@ -55,7 +56,7 @@ abhinaba@chaos:~$ neofetch
 
 &nbsp;
 
-**`> whoami`** &nbsp; CS grad turned systems builder. I write code that runs close to the metal — Android apps in **Kotlin**, Linux dotfiles that I obsessively rice, **ESP32** firmware in C, and Docker stacks for running **AI locally** on Intel Arc.
+**`> whoami`** &nbsp; Systems engineer at **TCS** by day, builder by nature. I write code that runs close to the metal — Android apps in **Kotlin**, Linux dotfiles that I obsessively rice, **ESP32** embedded projects in C, and Docker stacks for running **AI locally** on Intel Arc.
 
 **`> uptime`** &nbsp; B.Tech in Computer Science (Data Science) · Based in India
 
@@ -92,9 +93,9 @@ abhinaba@chaos:~$ neofetch
       <sub>ESP32 / IoT</sub>
     </td>
     <td align="center" width="140">
-      <img src="https://img.shields.io/badge/-88C0D0?style=for-the-badge&logo=waybar&logoColor=black" /><br/>
+      <img src="https://img.shields.io/badge/-88C0D0?style=for-the-badge&logo=qtproject&logoColor=black" /><br/>
       <sub><b>Ricing</b></sub><br/>
-      <sub>Niri + Nord</sub>
+      <sub>Niri + Quickshell</sub>
     </td>
     <td align="center" width="140">
       <img src="https://img.shields.io/badge/-769656?style=for-the-badge&logo=lichess&logoColor=white" /><br/>
@@ -117,7 +118,7 @@ abhinaba@chaos:~$ neofetch
       <h3 align="center">🔧 sys-setup</h3>
       <p align="center">
         <a href="https://github.com/as-repo1/sys-setup">
-          <img src="https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/View_Repo-2E3440?style=for-the-badge&logo=github&logoColor=D8DEE9" />
         </a>
       </p>
       <p align="center">One-command Arch/EndeavourOS workstation bootstrap with Nord-themed TUI, dotfiles management via GNU Stow, AUR helpers, and AppImages</p>
@@ -171,13 +172,13 @@ abhinaba@chaos:~$ neofetch
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🌡️ chaos-STATION</h3>
+      <h3 align="center">⚡ chaos-STATION</h3>
       <p align="center">
         <a href="https://github.com/as-repo1/chaos-STATION">
           <img src="https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
-      <p align="center">ESP32-based weather station — sensors, data logging, and embedded C firmware</p>
+      <p align="center">ESP32-based embedded projects — sensors, servos, data logging, and C firmware</p>
       <p align="center">
         <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
         <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
@@ -238,12 +239,12 @@ abhinaba@chaos:~$ neofetch
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=as-repo1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=as-repo1&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=as-repo1&show_icons=true&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&icon_color=81A1C1&text_color=D8DEE9&ring_color=88C0D0" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=as-repo1&theme=nord&hide_border=true&background=2E3440&stroke=3B4252&ring=88C0D0&fire=BF616A&currStreakLabel=88C0D0&sideLabels=D8DEE9&dates=4C566A" alt="GitHub Streak" />
 
 <br/>
 
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=as-repo1&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=as-repo1&layout=compact&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&text_color=D8DEE9&langs_count=8" alt="Top Languages" />
 
 </div>
 
@@ -251,7 +252,7 @@ abhinaba@chaos:~$ neofetch
 
 <!-- ACTIVITY GRAPH -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=as-repo1&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=as-repo1&bg_color=2E3440&color=88C0D0&line=5E81AC&point=88C0D0&area=true&area_color=81A1C1&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Activity Graph" />
 </div>
 
 <br/>
@@ -274,4 +275,4 @@ abhinaba@chaos:~$ neofetch
 
 <!-- SNAKE: will appear after the GitHub Action runs and generates the SVGs -->
 <!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3440,50:3B4252,100:5E81AC&height=120&section=footer" width="100%" />
